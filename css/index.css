@@ -25,7 +25,7 @@ img {
     clear: both;
 }
 .wrap {
-    background: url("../img/banner.jpg") no-repeat center center fixed;
+    background: url("../images/banner.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
